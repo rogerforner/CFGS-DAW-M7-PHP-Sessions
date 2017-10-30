@@ -10,12 +10,6 @@
       <input type="password" name="contrasena" class="form-control" id="contrasena" aria-describedby="passHelp" placeholder="****" required>
       <small id="passHelp" class="form-text text-muted">123</small>
     </div>
-    <div class="form-check">
-      <label class="form-check-label">
-        <input type="checkbox" name="recordar" class="form-check-input">
-        Recordar
-      </label>
-    </div>
-    <button type="submit" class="btn btn-primary">Acceder</button>
+    <button type="submit" class="btn btn-primary btn-block mt-4">Acceder</button>
   </form>
 </div>
